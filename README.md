@@ -1,2 +1,2 @@
 # bats
-Analysis of metabarcoding data for bat studies
+Analysis of metabarcoding data from bat studies
